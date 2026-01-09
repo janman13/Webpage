@@ -30,7 +30,7 @@ author:
   location         : "Cambridge, UK"
   employer         : "University of Cambridge"
   uri              : # URL
-  email            : "jh2366[at]cam[dot]ac[dot]uk" 
+#  email            : "jh2366[at]cam[dot]ac[dot]uk" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=cV39xGUAAAAJ"

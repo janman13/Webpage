@@ -23,7 +23,7 @@ repository               : "janman13/webpage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Jan Huertas"
   pronouns         : "he/him"  
   bio              : "Postdoc at the Collepardo Lab. Understanding chromatin using simulations. I never read the abstract because I don't like spoilers."
